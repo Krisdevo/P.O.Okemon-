@@ -1,1 +1,3 @@
-It's just a little card generator for pokemons. You can add many pokemons in the table (const pokemons) on the main.js.
+It's just a little Pokemon card generator that I've created with the POO of the Javascript.
+You can filters the type of them with buttons of the top.
+You can add many pokemons in the data files (pokemons.json).
