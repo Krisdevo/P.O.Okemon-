@@ -1,0 +1,1 @@
+It's just a little card generator for pokemons. You can add many pokemons in the table (const pokemons) on the main.js.

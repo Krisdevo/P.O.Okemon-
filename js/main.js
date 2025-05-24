@@ -16,11 +16,11 @@ class Pokemon {
 
         const card = document.createElement('div')
         card.classList.add('card')
+        card.setAttribute('style', `background-color: ${this.color};`)
         card.innerHTML =
 
             `
-                <div style =" background-color :${this.color}" width = "100%" height = "100%">
-                <img src="${this.img}" width ="100%" height="200">
+                <img src="${this.img}" width ="100%" height="200px">
                 <h2>${this.name}</h2>
                 <p> Type : ${this.type}</p>
             `
