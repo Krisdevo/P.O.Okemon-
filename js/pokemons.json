@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Pikachu",
+        "type": "Electrique",
+        "color": "yellow",
+        "img": "images/pikachu.jpg",
+        "id": "storm"
+    },
+
+    {
+        "name": "Magneti",
+        "type": "Electrique",
+        "color": "yellow",
+        "img": "images/magneti.png",
+        "id": "storm"
+    },
+
+    {
+        "name": "Wattouat",
+        "type": "Electrique",
+        "color": "yellow",
+        "img": "images/Wattouat.png",
+        "id": "storm"
+    },
+
+    {
+        "name": "Raiku",
+        "type": "Electrique",
+        "color": "yellow",
+        "img": "images/raiku.png",
+        "id": "storm"
+    },
+
+    {
+        "name": "Dracaufeu",
+        "type": "Feu",
+        "color": "red",
+        "img": "images/Dracaufeu.png",
+        "id": "fire"
+    },
+
+    {
+        "name": "Héricendre",
+        "type": "Feu",
+        "color": "red",
+        "img": "images/hericendre.png",
+        "id": "fire"
+    },
+
+    {
+        "name": "Sulfura",
+        "type": "Feu",
+        "color": "red",
+        "img": "images/sulfura.png",
+        "id": "fire"
+    },
+
+    {
+        "name": "Galopa",
+        "type": "Feu",
+        "color": "red",
+        "img": "images/galopa.png",
+        "id": "fire"
+    },
+
+
+    {
+        "name": "Carapuce",
+        "type": "Eau",
+        "color": "#6de4f4",
+        "img": "images/carapuce.jpg",
+        "id": "water"
+    },
+
+    {
+        "name": "Léviator",
+        "type": "Eau",
+        "color": "#6de4f4",
+        "img": "images/leviator.png",
+        "id": "water"
+    },
+
+    {
+        "name": "Ramoloss",
+        "type": "Eau",
+        "color": "#6de4f4",
+        "img": "images/ramoloss.png",
+        "id": "water"
+    },
+
+    {
+        "name": "Kaiminus",
+        "type": "Eau",
+        "color": "#6de4f4",
+        "img": "images/kaiminus.png",
+        "id": "water"
+    },
+
+    {
+        "name": "Bulbizarre",
+        "type": "Plante",
+        "color": "Green",
+        "img": "images/Bulbizarre.png",
+        "id": "plant"
+    },
+
+    {
+        "name": "Chétiflor",
+        "type": "Plante",
+        "color": "Green",
+        "img": "images/chetiflor.png",
+        "id": "plant"
+    },
+
+    {
+        "name": "Saquedeneu",
+        "type": "Plante",
+        "color": "Green",
+        "img": "images/saquedeneu.png",
+        "id": "plant"
+    },
+
+    {
+        "name": "Germignon",
+        "type": "Plante",
+        "color": "Green",
+        "img": "images/germignon.png",
+        "id": "plant"
+    }
+
+]
